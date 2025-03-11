@@ -1,3 +1,8 @@
 streamlit
-streamlit_option_menu
 scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+pickle-mixin
+streamlit-option-menu
